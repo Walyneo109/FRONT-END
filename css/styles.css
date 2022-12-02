@@ -1,0 +1,31 @@
+.img1{
+height:250px;
+padding:auto;
+}
+.info{ 
+	text-align:center;
+	margin: 90px;
+	border: 1px solid rgb(214, 214, 214);
+	padding: 15px
+}
+.dea{
+	text-align:left;
+	
+}
+
+.tr{
+	display: inline-block;
+}
+.card{
+	display:inline-block;
+	margin-right: 40px;
+	
+
+}
+.inicio{
+	margin: 4%;
+	
+}
+.carr{
+	width: 100px;
+}
